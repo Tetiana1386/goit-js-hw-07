@@ -13,4 +13,5 @@ const foodIngredients = ingredients.forEach(ingredient => {
   itemEl.innerHTML = ingredient;
   listEl.append(itemEl);
   console.log(itemEl);
-  });
+});
+  
